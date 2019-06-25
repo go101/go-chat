@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"chat"
+	"go101.org/go-chat/pkg/chat"
 )
 
 func run(port int) {

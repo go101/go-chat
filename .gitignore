@@ -1,6 +1,1 @@
-**/-*
-\#*
-local.properties.*
-src/github.com/*
-pkg/
-bin/
+/chat_*

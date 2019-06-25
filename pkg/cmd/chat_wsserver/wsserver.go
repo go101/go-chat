@@ -15,7 +15,7 @@ import (
 
 	"github.com/gorilla/websocket"
 
-	"chat"
+	"go101.org/go-chat/pkg/chat"
 )
 
 const (
