@@ -1,3 +1,6 @@
+(WARNING: The project was created when I just started learning Go.
+There might be some race bugs in it.)
+
 A simple chat server for practice using Go channels.
 
 Build:
